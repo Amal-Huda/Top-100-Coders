@@ -1,8 +1,8 @@
-# Full Name 
+Amal Huda
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> i am a teacher in computer science by profession and developer by passion................ (minimum 200 Characters)
 
 
 ### Portfolio Highlights
@@ -11,31 +11,31 @@
 
 #### Leadership and Influence: `required field`
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I hope i can mentor people .I have attended various evaluation processes.
 
 #### Networking: `required field`
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- I can help python coding and django ,flask development .
 
 #### As a Top 100 Member: `required field`
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- As a teacher to MCA graduate students i hope being one among top 100 coders will help my students to enhance their quality in what they have acquired.Also as a career enthusiast and being passionate on coding i hope i also can grab a better position . 
 
 #### Career Plan: `required field`
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Nowadays most of the young generation wish to go abroad for  better career opportunities.While exceling Keralas technology logs to another extend,it will largely help next generation for providing better socio economic conditions in their own native place.Becoming a coder i would love to express my professional experience for bringing a path to next generation in the field of digital technology. 
 
 #### Thoughts on Kerala's Tech Ecosystem: `required field`
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- As tourism is kerala's one of the major income generating source,collaborating tourism with digitalization and complete automation we can increase the income of both govt and people.tech ecosystem has a major role on this for eg,by giving a correct and precise tourism map along with information on  transportation facilities will pave a huge path in the way of success. 
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Yet not have any open source contributions 
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- 
 
 #### Highly Visible Technical Content:
 
